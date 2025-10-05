@@ -1,0 +1,26 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Vaishno Chaitanya
+    email: vaishno.chaitanya@owasp.org
+    github: vchan-in
+level: 2
+name: OWASP Four Clover
+pitch: OWASP Four Clover is your vigilant guardian against file tampering, delivering comprehensive integrity monitoring with customizable scans and policy
+  enforcement.
+repositories:
+  - name: www-project-four-clover
+    url: https://github.com/OWASP/www-project-four-clover
+    description: OWASP Foundation Web Repository
+  - name: FourClover
+    url: https://github.com/fourcloverorg/FourClover
+    description: 'Safeguarding system files, tracking configuration modifications, or enforcing security policies. Alpha Stage: Under Development'
+tags:
+  - file integrity monitoring
+  - cybersecurity tool
+  - OWASP Four Clover
+  - hash algorithms
+  - policy enforcement
+type: tool
+website: https://owasp.org/www-project-four-clover
